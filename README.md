@@ -3,6 +3,12 @@
 I build agent workflows, AI coding tooling, and research-oriented automation systems.  
 我主要做 agent 工作流、AI 编码工具，以及面向研究与实际使用场景的自动化系统。
 
+## GitHub Stats | GitHub 数据概览
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leslie-ller&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leslie-ller&layout=compact&hide_border=true)
+
 ## Focus | 当前关注
 
 - Agent workflow design and execution control
